@@ -1,0 +1,6 @@
+# Emacs backup files
+*~
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# apple bullshit
+.DS_Store/
