@@ -5,7 +5,8 @@ All the material is licensed by the licenses specified in each file.
     
 Instructor: Pietro Vischia (pietro.vischia@cern.ch)
 
-
+This tutorial merges my material from several past tutorials of mine ([vischia:intensiveCourse_public](https://github.com/vischia/intensiveCourse_public), [vischia:data_science_school_igfae2024](https://github.com/vischia/data_science_school_igfae2024), [vischia:adfm_2024-2025](https://github.com/vischia/adfm_2024-2025), [vischia:lisbon-ml-school](https://github.com/vischia/lisbon-ml-school)), and builds on that additional exercises etc.
+    
 ## Tutorial organization
 
 Ideally you would be running the tutorial on your laptop, following the instructions and explanations given by me in the big screen in the room.
