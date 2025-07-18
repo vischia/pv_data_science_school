@@ -1,4 +1,4 @@
-# My Machine Learning School
+# My Data Science School
 ## Exercises
 
 All the material is licensed by the licenses specified in each file.
