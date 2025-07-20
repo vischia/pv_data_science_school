@@ -1,0 +1,14 @@
+pytorch
+torchvision
+keras
+jupyter
+matplotlib
+tqdm
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+shap
+uproot
+torchinfo
