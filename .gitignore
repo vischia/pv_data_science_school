@@ -4,3 +4,5 @@
 .ipynb_checkpoints/
 # apple bullshit
 .DS_Store/
+# The data directory. We don't want to commit large files
+data/
