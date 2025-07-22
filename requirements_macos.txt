@@ -13,3 +13,4 @@ shap
 uproot
 torchinfo
 lightning
+tiktoken
