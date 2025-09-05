@@ -17,13 +17,13 @@ If, for any reason, you cannot run the tutorial, you are welcome to just watch t
 
 #### 1. Check out the code
 ```
-git clone git@github.com:vischia/pv_machine_learning_school.git
-cd pv_machine_learning_school/
+git clone git@github.com:vischia/pv_data_science_school.git
+cd pv_data_science_school/
 ```
 or
 ```
-git clone https://github.com/vischia/pv_machine_learning_school.git
-cd pv_machine_learning_school/
+git clone https://github.com/vischia/pv_data_science_school.git
+cd pv_data_science_school/
 ```
 
 #### 2. Create a python environment and install requirements
@@ -33,8 +33,8 @@ If your laptop can run ML models without too much hassle and you have some (appr
 ##### 2.1 Using conda
 
 ```
-conda create --name pv_machine_learning_school python==3.10
-conda activate pv_machine_learning_school
+conda create --name pv_data_science_school python==3.10
+conda activate pv_data_science_school
 conda install --file requirements.txt -c conda-forge -c pytorch -c nvidia -c scikit-learn
 pip install livelossplot
 ```
@@ -44,18 +44,18 @@ To deactivate the environment, you should run `conda deactivate` from the comman
 ##### 2.2 Using virtualenv
 
 ```
-virtualenv -p python3.10 pv_machine_learning_school
-source pv_machine_learning_school/bin/activate
+virtualenv -p python3.10 pv_data_science_school
+source pv_data_science_school/bin/activate
 pip install -r requirements_venv.txt
 ```
 
-A participant of a previous school (Geoffrey Mullier) reports that on MacOS 12.5 `virtualenv` doesn't work, and that in that case `python3.10 -m venv pv_machine_learning_school` works as intended.
+A participant of a previous school (Geoffrey Mullier) reports that on MacOS 12.5 `virtualenv` doesn't work, and that in that case `python3.10 -m venv pv_data_science_school` works as intended.
 
 To deactivate the environment, you should run `deactivate` from the command prompt.
 
 ##### 2.3 Using Google Colab (google account needed)
 
-Go to [Google Colab](https://colab.research.google.com/), select `GitHub` as a source, and fill in the path to this repository (`https://github.com/vischia/lisbon_ml_school`). Possibly Google will ask for access to your GitHub account, although installing from a public third party repository should not require that, in principle.
+Go to [Google Colab](https://colab.research.google.com/), select `GitHub` as a source, and fill in the path to this repository (`https://github.com/vischia/pv_data_science_school`). Possibly Google will ask for access to your GitHub account, although installing from a public third party repository should not require that, in principle.
 
 When the colab instance is active, open the jupyter notebook `train_hyp.ipynb` and run the cell labelled "*If you are using COLAB*"
 
