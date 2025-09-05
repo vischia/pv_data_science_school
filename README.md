@@ -63,6 +63,10 @@ Note that, to have persistency of the files and changes, and to be able to push 
 
 *While we can provide some limited help, it is expected that you set up your workflow in Colab independently.*
 
+##### 2.4 Running the notebooks on a remote server
+
+You will need to tunnel the notebook to your laptop and redirect it to an open port. You can find instructions (to be adapted to your specific server hostnames) [in this repository](https://github.com/vischia/TomOptCargo?tab=readme-ov-file#running-notebooks-in-a-remote-cluster).
+
 
 #### 3. Run the tutorial
 
